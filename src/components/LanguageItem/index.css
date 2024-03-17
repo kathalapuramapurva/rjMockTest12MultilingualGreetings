@@ -1,0 +1,24 @@
+.each-button-item {
+  list-style-type: none;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.style-button {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  border: 1px solid;
+  padding: 10px 25px 10px 25px;
+  border-radius: 20px;
+}
+
+.active {
+  color: #ffffff;
+  background-color: #db1c48;
+}
+
+.normal {
+  color: #db1c48;
+  background-color: transparent;
+}
